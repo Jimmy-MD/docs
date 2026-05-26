@@ -7,6 +7,31 @@ description: >-
 # Mises à jour produit
 
 {% updates format="full" %}
+
+<!-- release-id: spatium-spatium-viewer-v3-local-1779816789313 -->
+{% update date="2026-05-26" tags="nouveaute,amelioration" %}
+# Refonte du Viewer
+
+Spatium profite maintenant d’une interface revue dans l’ensemble du Viewer, avec une navigation actualisée, des panneaux plus épurés et un style visuel plus cohérent en mode clair comme en mode sombre. Vous retrouvez le même espace de travail, mais il est plus simple à parcourir et moins chargé.
+
+## Carte d’accueil et vue des emplacements
+
+La carte d’accueil donne maintenant plus de contexte avant d’ouvrir un emplacement. Les fenêtres d’information affichent les principaux détails d’occupation et de performance au même endroit, pour vous aider à voir plus vite où intervenir sans passer d’un écran à l’autre.
+
+## Espace analytique
+
+L’analytique dispose maintenant d’une mise en page dédiée pour les rapports d’occupation, de revenus et d’analyse des sessions. Les filtres sont regroupés dans une seule barre d’outils, ce qui rend le tri plus rapide entre les emplacements, les zones, les groupes, les services, les types de places et les places individuelles.
+
+## Panneaux latéraux du Viewer
+
+Les panneaux latéraux pour les zones, les places, les barrières, les groupes et les panneaux intelligents ont été réorganisés en sections et en onglets plus clairs. Si vous gérez vos équipements directement sur le plan 2D, il devient plus simple de trouver le bon réglage ou la bonne information.
+
+# Bug fixes
+
+- Amélioration de la prise en charge des styles de carte en mode clair et en mode sombre.
+- Correction de plusieurs comportements d’interface dans les menus, fenêtres, cartes et états de chargement pour une expérience plus uniforme dans l’application.
+{% endupdate %}
+
 {% update date="2026-04-20" tags="nouveaute" %}
 ## L'essentiel en un clin d'oeil grâce aux snapshots caméra
 
