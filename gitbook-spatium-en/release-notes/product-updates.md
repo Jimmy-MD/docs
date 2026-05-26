@@ -5,6 +5,31 @@ description: A full rundown of our latest releases, improvements and fixes in Sp
 # Product Updates
 
 {% updates format="full" %}
+
+<!-- release-id: spatium-spatium-viewer-v3-local-1779816789313 -->
+{% update date="2026-05-26" tags="new,improved" %}
+# Viewer redesign
+
+Spatium has a refreshed look across the Viewer, with updated navigation, cleaner panels, and a more consistent visual style in light and dark mode. It’s the same workspace, just easier to scan and a little less busy.
+
+## Home map and location overview
+
+The home map now gives you more context before you drill in. Location popups show key availability and performance details in one place, so you can decide where to focus without jumping between screens.
+
+## Analytics workspace
+
+Analytics now has a dedicated dashboard layout for occupancy, revenue, and session insights reports. Filters are grouped into a single toolbar, which makes it faster to narrow results and compare what’s happening across locations, zones, groups, services, spot types, and individual spots.
+
+## Viewer side panels
+
+The right-hand viewer panels for zones, spots, barriers, groups, and smart panels have been reorganized into clearer sections and tabs. If you manage assets directly on the 2D plan, it should take less hunting to find the settings or details you need.
+
+# Bug fixes
+
+- Improved map styling support for light and dark themes.
+- Smoothed out several menus, popups, cards, and loading states so the interface behaves more consistently across the app.
+{% endupdate %}
+
 {% update date="2026-04-20" tags="new" %}
 ## See the Essentials at a Glance with Camera Snapshots
 
