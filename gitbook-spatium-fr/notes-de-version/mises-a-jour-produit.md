@@ -7,6 +7,29 @@ description: >-
 # Mises à jour produit
 
 {% updates format="full" %}
+
+<!-- release-id: spatium-spatium-viewer-v3-local-1779987488041 -->
+{% update date="2026-05-28" tags="nouveaute,amelioration,correctif" %}
+## Refonte de l’interface Viewer
+
+La console opérateur de Spatium a maintenant une apparence renouvelée et une mise en page plus claire dans la navigation principale, la carte, les cartes d’information et les panneaux de détails. Le résultat est plus cohérent d’un bout à l’autre de l’expérience, et les actions importantes ressortent mieux au quotidien.
+
+## Analytique directement dans la carte
+
+Vous pouvez maintenant consulter des indicateurs clés d’occupation et de rotation directement depuis la vue d’un emplacement, sans devoir passer sans arrêt entre la carte et les rapports complets. C’est plus rapide pour vérifier la performance pendant que vous travaillez déjà sur un site.
+
+## Configuration de panneau intelligent plus souple
+
+Si vous utilisez des panneaux intelligents, la configuration partenaire est maintenant plus flexible. Spatium prend en charge des champs de configuration additionnels pour les partenaires compatibles, ce qui simplifie la préparation des affichages pris en charge.
+
+## Mises à jour des clichés caméra
+
+Les clichés caméra affichés dans le détail d’une place indiquent maintenant à quel moment la dernière image a été reçue. Vous voyez donc tout de suite si le contexte visuel est récent.
+
+- Correctif de l’affichage des clichés pour rendre les images caméra plus claires et plus faciles à interpréter dans la vue d’une place.
+- Amélioration de l’écran de connexion en mode sombre avec une image d’arrière-plan adaptée.
+{% endupdate %}
+
 {% update date="2026-04-20" tags="nouveaute" %}
 ## L'essentiel en un clin d'oeil grâce aux snapshots caméra
 
