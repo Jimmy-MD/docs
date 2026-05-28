@@ -5,6 +5,31 @@ description: A full rundown of our latest releases, improvements and fixes in Sp
 # Product Updates
 
 {% updates format="full" %}
+
+<!-- release-id: spatium-build-860 -->
+{% update date="2026-05-28" tags="new,improved,fixed" %}
+# Viewer refresh
+
+Spatium’s operator console has a new look and a cleaner layout. Navigation, headers, menus, cards, and the main viewer have all been refreshed so the workspace feels easier to scan and more consistent across screens.
+
+## Embedded analytics
+
+You can now open occupancy and revenue analytics directly in Spatium instead of jumping between tools. For operators with analytics enabled on their license, reports are built into the product, which makes it faster to check performance without breaking your workflow.
+
+## Smart panel setup
+
+If you use Neolect smart panels, you can now enter the panel IP address directly in the configuration screen. That gives you the extra setup field you need without workarounds.
+
+# Camera snapshots
+
+Camera snapshots now show when the latest image was received. That makes it easier to tell whether you’re looking at a fresh event or an older capture before you act on it.
+
+# Bug fixes
+
+- Fixed the snapshot display in the spot details panel.
+- Improved the sign-in screen artwork in dark mode so it matches the active theme.
+{% endupdate %}
+
 {% update date="2026-04-20" tags="new" %}
 ## See the Essentials at a Glance with Camera Snapshots
 
