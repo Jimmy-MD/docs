@@ -5,6 +5,29 @@ description: A full rundown of our latest releases, improvements and fixes in Sp
 # Product Updates
 
 {% updates format="full" %}
+
+<!-- release-id: spatium-spatium-viewer-v3-local-1779987488041 -->
+{% update date="2026-05-28" tags="new,improved,fixed" %}
+## Viewer refresh
+
+Spatium’s operator console has a new look and a cleaner layout across the main navigation, maps, cards, and detail panels. The updated design makes key actions easier to spot and gives the Viewer a more consistent feel from sign-in to day-to-day operations.
+
+## Analytics on the map
+
+You can now see key analytics directly from the location view, including occupancy and rotation indicators, without bouncing between the map and full reports. It’s a quicker way to check performance while you’re already working in a location.
+
+## Smarter smart panel setup
+
+If you use smart panels, partner-specific setup is more flexible. Spatium now supports additional panel configuration details for compatible partners, which makes it easier to prepare supported displays without workarounds.
+
+## Snapshot updates
+
+Camera snapshots in spot details now show when the latest image was received, so you can tell at a glance how fresh the visual context is.
+
+- Fixed snapshot display details to make camera images clearer and easier to understand in the spot view.
+- Improved the sign-in screen in dark mode with a matching background image.
+{% endupdate %}
+
 {% update date="2026-04-20" tags="new" %}
 ## See the Essentials at a Glance with Camera Snapshots
 
