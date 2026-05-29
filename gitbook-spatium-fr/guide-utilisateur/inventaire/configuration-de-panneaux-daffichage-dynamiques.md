@@ -4,7 +4,7 @@ Spatium permet d’intégrer vos panneaux d’affichage dynamique afin d’y aff
 
 Pour ajouter un nouveau panneau, entrez en mode édition en cliquant sur le bouton "Boite à outils" pour configurer et modifier des panneaux d’affichage dynamiques dans la zone correspondante.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 Il est possible d’ajouter de nouveaux panneaux d’affichage dynamiques en écrivant "Ajouter une panneau intelligent". Un menu flottant apparaîtra à gauche de l’écran.
 
@@ -12,15 +12,11 @@ Il est possible d’ajouter de nouveaux panneaux d’affichage dynamiques en éc
 
 <figure><img src="../../.gitbook/assets/image (58).png" alt=""><figcaption></figcaption></figure>
 
-
-
 Le panneau apparaît alors au milieu du plan, déjà sélectionnée et un menu flottant apparaît à gauche de l’écran afin d’en configurer :
 
 * Le nom
 * Les places assignées – L’ensemble des places pour lesquelles vous souhaitez afficher la disponibilité en sélectionnant les groupes et les zones regroupant les places que le panneau prendra en considération
 * Ses paramètres de source de données
-
-
 
 **Notes** :
 
@@ -36,16 +32,12 @@ En cliquant sur le mode d’édition et en cliquant sur un panneau d’affichage
 
 Pour les paramètres avancés de la source de données, cliquez sur l’icône afin d’avoir un menu plus détaillé. Vous pourrez choisir entre Capteurs Spatium (informations provenant des capteurs) et Compteur Parknet (informations provenant d’un partenaire) afin de déterminer la source des données de ce panneau.
 
-<figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
-
-
 
 Pour les paramètres d’affichage, cliquez sur l’onglet "Paramètres d’affichage" et choisissez entre les manufacturiers disponibles, qui représentent des types d’écrans pouvant être utilisés pour afficher les données réelles de ce panneau. Une fois sélectionné, rentrer son identifiant.
 
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
-
-
 
 * L’identifiant unique vous sera fourni par le manufacturier.

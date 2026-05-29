@@ -4,4 +4,4 @@ Une fois connecté et naviguant dans la plateforme, vous pouvez à tout moment m
 
 Pour cela, il suffit de cliquer sur le bouton "Gérer les utilisateurs" en bas du menu principal.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

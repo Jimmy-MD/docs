@@ -7,12 +7,14 @@ description: >-
 # Mises à jour produit
 
 {% updates format="full" %}
-
-<!-- release-id: spatium-build-860 -->
 {% update date="2026-05-28" tags="nouveaute,amelioration,correctif" %}
 ## Refonte de l’interface Viewer
 
 Spatium a été rafraîchie avec une présentation plus claire et plus cohérente. La navigation, les en-têtes, les menus, les cartes et la vue principale ont été revus pour rendre l’interface plus facile à parcourir au quotidien.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-29 at 16.19.46.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-29 at 16.19.24.png" alt=""><figcaption></figcaption></figure>
 
 ## Configuration des panneaux intelligents TTS
 
@@ -20,14 +22,12 @@ Vous pouvez désormais configurer, surveiller et contrôler vos panneaux de guid
 
 ## Correctifs
 
-- Correctif de l’affichage des snapshots dans le panneau de détail d’une place.
-- Amélioration de l’image de l’écran de connexion en mode sombre pour qu’elle corresponde au thème actif.
+* Correctif de l’affichage des snapshots dans le panneau de détail d’une place.
+* Amélioration de l’image de l’écran de connexion en mode sombre pour qu’elle corresponde au thème actif.
 {% endupdate %}
 
 {% update date="2026-04-20" tags="nouveaute" %}
 ## L'essentiel en un clin d'oeil grâce aux snapshots caméra
-
-
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-20 at 22.56.34.png" alt=""><figcaption></figcaption></figure>
 
@@ -66,4 +66,3 @@ Bénéficiez d’un nouveau niveau de performance et de fiabilité dans vos anal
 * Nouvelle page d'annonces de notes de version Gitbook
 {% endupdate %}
 {% endupdates %}
-

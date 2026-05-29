@@ -6,4 +6,4 @@ Le menu principal de Spatium se trouve en tout temps sur la gauche de la platefo
 
 Un menu de configuration est disponible en tout temps dans la partie inférieure de ce menu principal.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
