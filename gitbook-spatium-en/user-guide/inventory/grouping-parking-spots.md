@@ -15,15 +15,11 @@ Once the groups are created, click “Apply” to save the changes; otherwise, t
 
 <figure><img src="../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
-
-
 You can add stalls to the group by dragging them into it and then clicking the “Capture Spots” button.
 
 You can now find the groups in the Spatium Toolbox at the top of the layout by typing the word “Group” or by entering the name of the group(s) you are looking for.
 
 <figure><img src="../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
-
-
 
 Once a group is selected, the group-specific floating menu allows you to:
 
@@ -32,17 +28,4 @@ Once a group is selected, the group-specific floating menu allows you to:
 * Change its opacity individually for better visibility on the layout;
 * Add the group to favorites to have its data available at all times and in real time, and for it to appear in the floating menu of the zone it belongs to. To do this, simply click the star to the right of the group's name to favorite it. You can also do this directly in the Spatium Toolbox by clicking the star next to each line.
 
-<figure><img src="../../.gitbook/assets/image (56).png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<figure><img src="../../.gitbook/assets/image (55).png" alt=""><figcaption></figcaption></figure>

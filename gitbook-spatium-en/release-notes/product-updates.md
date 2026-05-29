@@ -5,27 +5,27 @@ description: A full rundown of our latest releases, improvements and fixes in Sp
 # Product Updates
 
 {% updates format="full" %}
-
-<!-- release-id: spatium-build-860 -->
-{% update date="2026-05-28" tags="new,improved,fixed" %}
+{% update date="2026-05-28" tags="new,improved,fixed,security" %}
 ## Viewer refresh
 
 Spatium now has a new look and a cleaner layout. Navigation, headers, menus, cards, and the main viewer have all been refreshed so the workspace feels easier to scan and more consistent across screens.
+
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-29 at 16.18.40.png" alt=""><figcaption></figcaption></figure>
 
 ## TTS Smart panel setup
 
 You can now configure, monitor and control your TTS smart guidance panels from Spatium, along with your other smart panels already supported.
 
+
+
 ## Bug fixes
 
-- Fixed the snapshot display in the spot details panel.
-- Improved the sign-in screen artwork in dark mode so it matches the active theme.
+* Fixed the snapshot display in the spot details panel.
+* Improved the sign-in screen artwork in dark mode so it matches the active theme.
 {% endupdate %}
 
 {% update date="2026-04-20" tags="new" %}
 ## See the Essentials at a Glance with Camera Snapshots
-
-
 
 <figure><img src="../.gitbook/assets/Screenshot 2026-04-20 at 22.57.02.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,7 +53,7 @@ Elevate your financial visibility with the all-new Revenue Report. Bringing toge
 
 ### Improved Occupancy Report
 
-<figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
 Experience a new level of performance and reliability in your reporting. The enhanced Occupancy Report is powered by optimized queries that deliver faster, more consistent insights across occupancy, visitor flow, turnover, and dwell time. With improved data accuracy and responsiveness, you can rely on every metric to guide your operational decisions with precision.
 {% endupdate %}
@@ -62,8 +62,5 @@ Experience a new level of performance and reliability in your reporting. The enh
 ## Release notes page
 
 * New release note announcement page
-
-
 {% endupdate %}
 {% endupdates %}
-

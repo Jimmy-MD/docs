@@ -4,7 +4,7 @@ Spatium allows you to integrate your dynamic display panels to show the number o
 
 To add a new panel, enter edit mode by clicking the “Spatium Toolbox” button to configure and modify dynamic display panels in the relevant zone.
 
-<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 You can add new dynamic display panels by typing “Add a Smart Panel”. A floating menu will appear on the left side of the screen.
 
@@ -12,15 +12,11 @@ You can add new dynamic display panels by typing “Add a Smart Panel”. A floa
 
 <figure><img src="../../.gitbook/assets/image (59).png" alt=""><figcaption></figcaption></figure>
 
-
-
 The panel will then appear in the center of the layout, already selected, and a floating menu will appear on the left side of the screen to configure the following:
 
 * Name
 * Assigned spots – The set of spots for which you want to display availability by selecting the groups and zones that the panel will consider
 * Data Source Settings
-
-
 
 **Notes:**
 
@@ -43,7 +39,5 @@ For display settings, click on the “Display Settings” tab and choose between
 <figure><img src="../../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
 
 Once the manufacturer/partner is selected, you can set its identifier so Spatium can communicate with it and display live availability.
-
-
 
 * The unique identifier will be provided by the manufacturer
