@@ -10,6 +10,8 @@ description: A full rundown of our latest releases, improvements and fixes in Sp
 
 Spatium now has a new look and a cleaner layout. Navigation, headers, menus, cards, and the main viewer have all been refreshed so the workspace feels easier to scan and more consistent across screens.
 
+<figure><img src="../.gitbook/assets/Screenshot 2026-05-29 at 16.23.33.png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../.gitbook/assets/Screenshot 2026-05-29 at 16.18.40.png" alt=""><figcaption></figcaption></figure>
 
 ## TTS Smart panel setup
