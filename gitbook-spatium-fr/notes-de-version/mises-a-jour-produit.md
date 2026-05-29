@@ -10,23 +10,15 @@ description: >-
 
 <!-- release-id: spatium-build-860 -->
 {% update date="2026-05-28" tags="nouveaute,amelioration,correctif" %}
-# Refonte de l’interface Viewer
+## Refonte de l’interface Viewer
 
-La console opérateur de Spatium a été rafraîchie avec une présentation plus claire et plus cohérente. La navigation, les en-têtes, les menus, les cartes et la vue principale ont été revus pour rendre l’interface plus facile à parcourir au quotidien.
+Spatium a été rafraîchie avec une présentation plus claire et plus cohérente. La navigation, les en-têtes, les menus, les cartes et la vue principale ont été revus pour rendre l’interface plus facile à parcourir au quotidien.
 
-## Analytique intégrée
+## Configuration des panneaux intelligents TTS
 
-Vous pouvez maintenant consulter les analyses d’occupation et de revenus directement dans Spatium, sans passer d’un outil à l’autre. Pour les opérateurs dont la licence inclut cette option, les rapports s’intègrent au produit, ce qui accélère la consultation des performances.
+Vous pouvez désormais configurer, surveiller et contrôler vos panneaux de guidage intelligents TTS depuis Spatium, ainsi que vos autres panneaux intelligents déjà supportés.
 
-## Configuration des panneaux intelligents
-
-Si vous utilisez des panneaux intelligents Neolect, vous pouvez maintenant saisir l’adresse IP directement dans l’écran de configuration. Vous avez donc le champ nécessaire au paramétrage, sans détour.
-
-# Snapshots caméra
-
-Les snapshots caméra affichent maintenant l’heure de réception de la plus récente image. Vous pouvez donc voir plus vite si le cliché correspond à un évènement récent ou à une capture plus ancienne avant d’intervenir.
-
-# Correctifs
+## Correctifs
 
 - Correctif de l’affichage des snapshots dans le panneau de détail d’une place.
 - Amélioration de l’image de l’écran de connexion en mode sombre pour qu’elle corresponde au thème actif.
