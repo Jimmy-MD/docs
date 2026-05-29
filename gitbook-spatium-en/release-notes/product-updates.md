@@ -5,6 +5,23 @@ description: A full rundown of our latest releases, improvements and fixes in Sp
 # Product Updates
 
 {% updates format="full" %}
+
+<!-- release-id: spatium-build-860 -->
+{% update date="2026-05-28" tags="new,improved,fixed" %}
+## Viewer refresh
+
+Spatium now has a new look and a cleaner layout. Navigation, headers, menus, cards, and the main viewer have all been refreshed so the workspace feels easier to scan and more consistent across screens.
+
+## TTS Smart panel setup
+
+You can now configure, monitor and control your TTS smart guidance panels from Spatium, along with your other smart panels already supported.
+
+## Bug fixes
+
+- Fixed the snapshot display in the spot details panel.
+- Improved the sign-in screen artwork in dark mode so it matches the active theme.
+{% endupdate %}
+
 {% update date="2026-04-20" tags="new" %}
 ## See the Essentials at a Glance with Camera Snapshots
 

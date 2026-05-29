@@ -7,6 +7,23 @@ description: >-
 # Mises à jour produit
 
 {% updates format="full" %}
+
+<!-- release-id: spatium-build-860 -->
+{% update date="2026-05-28" tags="nouveaute,amelioration,correctif" %}
+## Refonte de l’interface Viewer
+
+Spatium a été rafraîchie avec une présentation plus claire et plus cohérente. La navigation, les en-têtes, les menus, les cartes et la vue principale ont été revus pour rendre l’interface plus facile à parcourir au quotidien.
+
+## Configuration des panneaux intelligents TTS
+
+Vous pouvez désormais configurer, surveiller et contrôler vos panneaux de guidage intelligents TTS depuis Spatium, ainsi que vos autres panneaux intelligents déjà supportés.
+
+## Correctifs
+
+- Correctif de l’affichage des snapshots dans le panneau de détail d’une place.
+- Amélioration de l’image de l’écran de connexion en mode sombre pour qu’elle corresponde au thème actif.
+{% endupdate %}
+
 {% update date="2026-04-20" tags="nouveaute" %}
 ## L'essentiel en un clin d'oeil grâce aux snapshots caméra
 
