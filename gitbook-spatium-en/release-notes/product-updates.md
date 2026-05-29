@@ -12,7 +12,7 @@ description: A full rundown of our latest releases, improvements and fixes in Sp
 
 Spatium now has a new look and a cleaner layout. Navigation, headers, menus, cards, and the main viewer have all been refreshed so the workspace feels easier to scan and more consistent across screens.
 
-## Smart panel setup
+## TTS Smart panel setup
 
 You can now configure, monitor and control your TTS smart guidance panels from Spatium, along with your other smart panels already supported.
 
