@@ -25,7 +25,7 @@ Each tab supports precise and organized management of the project settings:
 
 <figure><img src="../../.gitbook/assets/image (9) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Once you have created the role, you can see the actions that are securable for the containers containign your role, and sub-containers:<br>
+Once you have created the role, you can see the actions that are securable for the containers containing your role, and sub-containers:<br>
 
 <figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure>
 
@@ -97,15 +97,15 @@ Add new option fields using the New button:
 
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
-Name is the field name that will be available when querying license optionsa values for a license using that license type.
+Name is the field name that will be available when querying license option values for a license using that license type.
 
 Label is displayed when editing this option’s value in a license.
 
-Type is the value type to store. Text means any string of characters, Number means noly integer numbers, and True/False means a boolean value.
+Type is the value type to store. Text means any string of characters, Number means only integer numbers, and True/False means a boolean value.
 
-Default value is the default value to use for this option when creating new licenses of that license type, or for existing licenses is you are adding a new option.
+Default value is the default value to use for this option when creating new licenses of that license type, or for existing licenses if you are adding a new option.
 
-Required indicates wether that this option must have a non-empty (or non-zero) value when saving a license of that license type.
+Required indicates whether this option must have a non-empty (or non-zero) value when saving a license of that license type.
 
 Your options will be presented in the license edition screen:
 
